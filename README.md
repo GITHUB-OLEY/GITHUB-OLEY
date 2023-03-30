@@ -4,8 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ນັກສຶກສາຈົບໃຫມ່
 ---------------
 
-ເຄີຍເຮັດວຽກກ່ຽວກັບ Data Center ໃນຊ່ວງທີ່ກຳລັງສຶກສາຢູ່ປີທີ2
-### Skills 
+ເຄີຍເຮັດວຽກກ່ຽວກັບ Data Center ໃນຊ່ວງທີ່ກຳລັງສຶກສາຢູ່ປີທີ2### Skills 
 <p align="left">
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
@@ -19,4 +18,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
                     
-                 
+                  ### Socials
+                  
+                  
+                <p align="left">
+                          
+                      <a href="https://www.github.com/GITHUB-OLEY" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>### Badges<b>My GitHub Stats</b><a
+                      href="http://www.github.com/GITHUB-OLEY"><img src="https://github-readme-stats.vercel.app/api?username=GITHUB-OLEY&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=22c55e&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="GITHUB-OLEY's GitHub stats" /></a>
